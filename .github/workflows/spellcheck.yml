@@ -5,6 +5,7 @@ on:
     branches:
       - '**'
 
+
 jobs:
   spellcheck:
     runs-on: ubuntu-latest
